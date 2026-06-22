@@ -116,10 +116,4 @@ Planned features for upcoming versions include:
 
 ---
 
-## 📄 License
-
-This project is developed for educational and portfolio purposes. Further improvements and contributions are welcome.
-
----
-
 ### ⭐ If you find this project interesting, consider giving it a star on GitHub!
