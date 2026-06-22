@@ -110,10 +110,11 @@ Planned features for upcoming versions include:
 <img width="185" height="280" alt="image" src="https://github.com/user-attachments/assets/d80689f5-85a2-4a8a-840d-b01328590545" />
 <img width="138" height="282" alt="image" src="https://github.com/user-attachments/assets/5269d968-b9ea-4948-9f62-c3155917f0ac" />
 <img width="161" height="281" alt="image" src="https://github.com/user-attachments/assets/503bceba-d473-4f20-bee4-b0e4bf446372" />
+<img width="140" height="282" alt="image" src="https://github.com/user-attachments/assets/90b28052-d17f-4751-af42-c73d73357a14" />
 
 
 </div>
 
 ---
 
-### ⭐ If you find this project interesting, consider giving it a star on GitHub!
+### ⭐ If you find this project interesting, consider giving it a star!
